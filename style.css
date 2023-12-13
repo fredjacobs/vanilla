@@ -1,3 +1,13 @@
 h1 {
   color: brown;
 }
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-item {
+  flex: 1 0 0;
+  text-align: center;
+}
