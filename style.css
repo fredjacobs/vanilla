@@ -11,3 +11,7 @@ h1 {
   flex: 1 0 0;
   text-align: center;
 }
+
+.flex-item:nth-child(2n) {
+  background-color: aqua;
+}
